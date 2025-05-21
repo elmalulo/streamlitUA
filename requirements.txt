@@ -1,7 +1,6 @@
-matplotlib
 streamlit
 pandas
 matplotlib.pyplot
-seaborn 
-numpy 
-datetime
+seaborn
+numpy
+datetime 
